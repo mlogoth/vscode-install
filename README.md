@@ -1,6 +1,8 @@
 # vscode-install
 Installation and configuration of vscode
 
+[![Install VS Code Extensions](https://github.com/mlogoth/vscode-install/actions/workflows/install-extensions.yml/badge.svg)](https://github.com/mlogoth/vscode-install/actions/workflows/install-extensions.yml)
+
 ## Installation
 
 ### Vscode
